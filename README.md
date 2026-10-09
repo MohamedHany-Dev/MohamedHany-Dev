@@ -1,248 +1,165 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hany</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | ASP.NET Core • Microservices • Clean Architecture • System Design 🚀
-</h3>
+# Hi there, I'm Mohamed Hany 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineer;ASP.NET+Core+%7C+C%23+%7C+.NET;Microservices+%7C+DDD+%7C+CQRS;Clean+Architecture+%7C+System+Design;Kafka+%7C+RabbitMQ+%7C+SignalR+%7C+gRPC;Building+Scalable+Enterprise+Systems;Competitive+Programmer+%7C+Problem+Solver;Always+Learning+Something+New" />
-</p>
+### Backend Software Engineer · .NET · Distributed Systems
 
----
+**Building secure, scalable, and maintainable enterprise applications.**
 
-# 👨‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white)](https://myportfolio.mhany-16c.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hany-5004971b5/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedHany-Dev)
 
-- 💼 Software Engineer specializing in **ASP.NET Core** and enterprise backend development.
-- 🚀 Building scalable backend systems using **Microservices, Clean Architecture, DDD, and CQRS**.
-- ⚡ Passionate about designing software that is maintainable, secure, and high-performance.
-- 🔄 Experienced in event-driven architectures, distributed systems, and real-time communication.
-- 🧠 ECPC Qualifier and Competitive Programmer with a strong problem-solving mindset.
-- 📚 Always exploring new technologies and software architecture patterns.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00B8D9&center=true&vCenter=true&width=780&lines=ASP.NET+Core+%7C+C%23+%7C+.NET;Microservices+%7C+DDD+%7C+CQRS;Kafka+%7C+RabbitMQ+%7C+gRPC+%7C+SignalR;Clean+Architecture+%7C+System+Design;Solving+Real-World+Backend+Challenges" alt="Animated overview of backend engineering specialties" />
+
+</div>
 
 ---
 
-# 🚀 Current Focus
+## 👨‍💻 About Me
 
-- 🏗 Enterprise Backend Development
-- ☁ Cloud-Native Applications
-- 🔄 Distributed Systems
-- ⚡ Performance Optimization
-- 🧩 System Design
-- 📖 Software Architecture
+I'm a **Software Engineer at Cloud4Rain**, specializing in **ASP.NET Core** and backend systems for enterprise applications. I enjoy designing reliable APIs, building distributed services, and transforming complex business requirements into maintainable software.
 
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,vscode,angular,ts,js,html,css,sass,bootstrap,tailwind,docker,redis,mongodb,mysql,git,github,postman"/>
-
-</p>
-
-### Backend
-
-- ASP.NET Core
-- Web API
-- Minimal API
-- Entity Framework Core
-- Dapper
-- LINQ
-- SignalR
-- gRPC
-- Hangfire
-- Keycloak
-- YARP API Gateway
-
-### Architecture
-
-- Clean Architecture
-- Domain Driven Design (DDD)
-- CQRS
-- MediatR
-- SOLID Principles
-- Repository Pattern
-- Specification Pattern
-- Unit of Work
-- Multi-Tenant Architecture
-- Event-Driven Architecture
-
-### Messaging
-
-- RabbitMQ
-- Kafka
-
-### Database
-
-- SQL Server
-- MySQL
-- MongoDB
-- Redis
-- Firebase
-
-### Frontend
-
-- Angular
-- TypeScript
-- HTML5
-- CSS3
-- Sass
-- Bootstrap
-- Tailwind CSS
-- Blazor
-
-### DevOps & Tools
-
-- Docker
-- Git
-- GitHub
-- Postman
-- Apidog
-- Jira
-- Trello
+- 🔧 Develop **REST APIs and microservices** using .NET, EF Core, Dapper, and Clean Architecture.
+- 🔄 Work with **Kafka, RabbitMQ, gRPC, SignalR, and Server-Sent Events** for event-driven and real-time communication.
+- 🔐 Build features involving **authentication, authorization, RBAC, audit logging, and secure integrations**.
+- ⚙️ Implement **background processing, third-party integrations, and dynamic PDF generation**.
+- 🏆 Qualified for **ECPC twice**; passionate about algorithms, data structures, and problem solving.
+- 📚 Currently exploring **Azure, Kubernetes, event sourcing, and advanced system design**.
 
 ---
 
-# 💼 Professional Experience
+## 🛠️ Technical Skills
 
-🚀 Designing and developing enterprise-grade backend systems.
+<div align="center">
 
-✔ REST APIs
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,java,cpp,angular,ts,blazor,docker,redis,kafka,rabbitmq,mysql,mongodb,git,github,postman,visualstudio&perline=9" alt="Technical skills" />
 
-✔ Microservices
+</div>
 
-✔ Authentication & Authorization
+| Category | Skills |
+| --- | --- |
+| **Languages** | C#, C++, Python, Java, JavaScript, TypeScript |
+| **Backend & APIs** | ASP.NET Core, RESTful APIs, ASP.NET MVC, Entity Framework Core, Dapper, LINQ, GraphQL, gRPC, SignalR, Server-Sent Events (SSE), Hangfire, FastAPI, Django |
+| **Architecture & Patterns** | Microservices, Clean Architecture, Onion Architecture, Domain-Driven Design (DDD), CQRS, MediatR, SOLID, Repository, Unit of Work, Specification, Design Patterns, Multi-Tenant Architecture |
+| **Messaging & Integrations** | Kafka, RabbitMQ, Event-Driven Architecture, Keycloak, YARP API Gateway, Microsoft Teams / Graph, Payment Integrations |
+| **Databases & Caching** | SQL Server, PostgreSQL, MySQL, MongoDB, Redis, Firebase, Caching |
+| **Frontend & Mobile** | Angular, Blazor, HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, Flutter, Dart |
+| **AI & Computer Vision** | YOLO, MediaPipe, OpenCV, NumPy, Pandas, GANs |
+| **CMS & Enterprise Platforms** | Umbraco, Alfresco |
+| **Tools & Practices** | Docker, Git, GitHub, Unit Testing, Postman, Apidog, Visual Studio, VS Code, Jira, Trello, Google Colab |
+| **Core CS** | Object-Oriented Programming, Data Structures, Algorithms, Competitive Programming |
 
-✔ Keycloak Integration
-
-✔ Payment Gateway Integration
-
-✔ Microsoft Teams Integration
-
-✔ Real-Time Applications (SignalR & SSE)
-
-✔ Background Jobs (Hangfire)
-
-✔ Audit Logging
-
-✔ Role-Based Access Control (RBAC)
-
-✔ Email Services
-
-✔ Dynamic PDF Generation
-
-✔ Event-Driven Communication
+<sub>Primary focus: .NET backend engineering, distributed systems, and secure enterprise integrations.</sub>
 
 ---
 
-# 🏆 Featured Projects
+## 💼 Professional Experience
 
-🛒 Enterprise E-Commerce API
+### Backend Software Engineer · Cloud4Rain
+*October 2025 – Present*
 
-- .NET 8
-- Clean Architecture
-- DDD
-- CQRS
-- Redis
-- SignalR
-- Payment Integration
+- Design and develop **ASP.NET Core microservices and REST APIs** with an emphasis on maintainability, performance, and reliability.
+- Implement **asynchronous messaging and real-time notifications** using Kafka, RabbitMQ, SignalR, SSE, and gRPC.
+- Integrate enterprise services including **Microsoft Teams / Graph API** (meetings and attendance) and **Fawry payment processing**.
+- Build **role-based access control, audit logging, background jobs, email notifications, and PDF-based reports/certificates**.
+- Apply **Clean Architecture, DDD, CQRS, SOLID, and automated testing** to keep business workflows modular and testable.
 
-📚 ToDo API (.NET 9)
-
-- CQRS
-- MediatR
-- Repository Pattern
-- Redis
-- Clean Architecture
-
-💬 Real-Time Chat
-
-- ASP.NET Core
-- gRPC
-- Protocol Buffers
-- HTTP/2
-- Bidirectional Streaming
-
-🏢 Enterprise Company Management System
-
-- Onion Architecture
-- Repository Pattern
-- Unit of Work
+> Interested in how I approach projects and system design? Explore my [portfolio](https://myportfolio.mhany-16c.workers.dev/).
 
 ---
 
-# 🧠 Engineering Mindset
+## 🚀 Featured Projects
 
-✔ Clean Code
+### 🛡️ Interview Guard — AI Interview Monitoring
+**ASP.NET Core · Python FastAPI · Blazor WebAssembly · YOLO · MediaPipe · OpenCV · EF Core · PostgreSQL**
 
-✔ SOLID
+Built an AI-assisted interview monitoring and proctoring application. Computer vision detects **multiple people, prohibited objects, and suspicious head movements**; REST APIs record suspicious events, calculate session risk scores, and persist audit data.
 
-✔ Design Patterns
+### 💬 Real-Time Chat App — gRPC
+**C# · ASP.NET Core · gRPC · Protocol Buffers · HTTP/2**
 
-✔ Distributed Systems
+Developed a multi-room chat service using **bidirectional streaming**, with connection management, concurrent client handling, and asynchronous, thread-safe room messaging.
 
-✔ High Performance
+### 🛒 E-Commerce API
+**.NET 8 · SQL · Redis · Clean Architecture · DDD · CQRS · MediatR · SignalR**
 
-✔ Scalability
+Built APIs for **products, categories, orders, and order tracking**, using the Specification, Repository, Unit of Work, and Result patterns, plus caching and payment integration.
 
-✔ Maintainability
+### 📖 Daily-Quran — Memorization & Revision
+**Angular 21 · TypeScript · PrimeNG · RxJS · SCSS**
 
-✔ Security
+Developed a bilingual Arabic/English application covering **114 surahs**, with RTL support, memorization groups, personalized daily revision, progress dashboards, and localStorage persistence.
 
-✔ System Design
+### 🛍️ Talabat API
+**.NET 8 · SQL · Redis · AutoMapper**
 
-✔ Domain Driven Design
+Created a products-and-orders API using **N-Tier Architecture**, Repository, Unit of Work, and Specification patterns.
+
+### 🏢 System Management Company
+**.NET 5 · ASP.NET MVC · SQL Server · Onion Architecture**
+
+Built a company management application using Repository and Unit of Work patterns to separate business logic and data access.
+
+<details>
+<summary><b>📂 More projects — backend, frontend, AI, and desktop</b></summary>
+
+| Project | Overview |
+| --- | --- |
+| **Examination System** | C# system where administrators manage subjects, instructors create exams, and students complete graded assessments. |
+| **Research Gate** | .NET 5 MVC publishing platform for books, papers, and documents, with authenticated editing. |
+| **Day With Music** | Responsive HTML/CSS/Sass website based on a Figma design. |
+| **Gaming** | JavaScript game-information site with API integration, search, pagination, loading states, and local caching. |
+| **ToDo / Drum Kit** | Interactive JavaScript applications for task management and keyboard/mouse-driven audio. |
+| **Sudoku Solver** | Python solver using backtracking and differential evolution. |
+| **Make A Square** | JavaFX puzzle solver using bitmasking and brute-force search. |
+| **Teacher Management System** | JavaFX application with CRUD operations, dashboards, PDF reports, and printing. |
+| **Health Management System** | JavaFX gym-management application for admins, coaches, and members. |
+| **Anomaly Detection Security System** | Graduation project for abnormal behavior detection in video/images and security alerts; **99/100**. |
+
+</details>
+
+> 🔗 See more about my projects on my **[portfolio](https://myportfolio.mhany-16c.workers.dev/)**.
 
 ---
 
-# 📈 Currently Learning
+## 🏅 Competitive Programming
 
-- Kubernetes
-- Azure
-- Event Sourcing
-- Advanced Distributed Systems
-- High Performance .NET
-- Software Architecture
+- 🏆 **Two-time ECPC qualifier**
+- 🧩 Strong interest in **algorithms, data structures, and optimization**
+- 💻 Problem solving with **C++ and Python**
 
----
+<div align="center">
 
-# 🏅 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/Codeforces-Lion__Heart-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lion_Heart)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Saytara-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saytara/)
 
-- 🥇 ECPC Qualifier
-- 💻 Passionate about Algorithms & Data Structures
-- 🚀 Regularly solving programming problems
-- 📚 Continuous Interview Preparation
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHany-Dev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MohamedHany-Dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-</p>
+</div>
+
+<sub>GitHub activity images are provided by third-party services and may occasionally be unavailable.</sub>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-hany-5004971b5/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white)](https://myportfolio.mhany-16c.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hany-5004971b5/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedHany-Dev)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lion_Heart)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saytara/)
 
-<a href="https://github.com/MohamedHany-Dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**[🌍 Visit My Portfolio](https://myportfolio.mhany-16c.workers.dev/)**
 
-<a href="https://codeforces.com/profile/Lion_Heart">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Saytara/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
+</div>
